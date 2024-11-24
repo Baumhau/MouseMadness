@@ -1,0 +1,3 @@
+messages:
+  camera-rotated: "Deine Kamera wurde zufällig verdreht!" # Nachricht, wenn die Kamera rotiert wurde
+  only-players: "Dieser Befehl kann nur von einem Spieler ausgeführt werden." # Nachricht für die Konsole
