@@ -1,0 +1,7 @@
+name: MouseMadness
+version: 1.1
+main: com.jawollo07.MouseMadness.MouseMadness
+commands:
+  mousemadness:
+    description: Dreht die Kamera des Spielers in eine zufällige Richtung.
+    usage: /mousemadness
